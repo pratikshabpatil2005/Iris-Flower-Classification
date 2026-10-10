@@ -1,0 +1,73 @@
+Iris Flower Classification Using Machine Learning
+1. Project Overview
+
+This project uses Machine Learning to classify Iris flowers into three species: Setosa, Versicolor, and Virginica. The model predicts the flower species based on sepal and petal measurements.
+
+2. Project Objectives
+Understand and explore a dataset using Python.
+Visualize flower measurements using graphs.
+Train a Machine Learning classification model.
+Evaluate model performance using accuracy and a confusion matrix.
+Predict the species of a new flower.
+3. Technologies Used
+Python
+Pandas
+Matplotlib
+Scikit-learn
+Google Colab
+Logistic Regression
+4. Dataset Description
+
+The Iris dataset contains 150 flower samples and four input features:
+
+Sepal length (cm)
+Sepal width (cm)
+Petal length (cm)
+Petal width (cm)
+
+The target variable contains three species:
+
+Setosa
+Versicolor
+Virginica
+5. Methodology
+Load the Iris dataset.
+Explore the data and check for missing values.
+Visualize the flower measurements.
+Split the data into training and testing sets.
+Standardize the features and train a Logistic Regression model.
+Evaluate the model using accuracy, a classification report, and a confusion matrix.
+Test the model with new flower measurements.
+6. Model Evaluation
+
+The model was evaluated using a test dataset containing 20% of the samples.
+
+Accuracy: See the actual accuracy score displayed in the project notebook.
+
+The confusion matrix and classification report are included in the notebook outputs.
+
+7. Sample Prediction
+
+Example input measurements:
+
+Sepal length: 5.1 cm
+Sepal width: 3.5 cm
+Petal length: 1.4 cm
+Petal width: 0.2 cm
+
+Expected prediction: Setosa
+
+8. How to Run the Project
+Open Iris_Flower_Classification.ipynb.
+Open the notebook in Google Colab.
+Run each code cell from top to bottom.
+Review the graphs, accuracy score, and predictions.
+9. Conclusion
+
+This project demonstrates how supervised Machine Learning can classify flowers based on their measurements. It provides practical experience with data exploration, visualization, model training, and evaluation.
+
+10. Project Files
+Iris_Flower_Classification.ipynb — Python code, analysis, model training, and evaluation.
+Author
+
+AI and Machine Learning Internship Project
